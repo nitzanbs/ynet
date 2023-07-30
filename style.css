@@ -185,6 +185,11 @@ margin-left: -15px;
     justify-content: space-between;
 
 }
+
+.headbox :hover{
+    color: rgb(31, 31, 198);
+}
+
 .minhbox{
     width: 14%;
     height: 80%;
