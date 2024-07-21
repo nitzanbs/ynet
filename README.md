@@ -28,8 +28,8 @@ Include screenshots of your website here to showcase its design and responsivene
   
 ## Setup Instructions
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate into the project directory: `cd ynet-replica`
+1. Clone the repository: `git clone <https://github.com/nitzanbs/ynet.git>`
+2. Navigate into the project directory: `cd ynet`
 3. Open `index.html` in your preferred browser.
 
 ## Usage
@@ -42,4 +42,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Live Demo
 
-You can view the live demo of the website [here](http://your-website-url.com).
+You can view the live demo of the website [here](https://nitzanbs.github.io/ynet/).
